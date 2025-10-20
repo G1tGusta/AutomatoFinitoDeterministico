@@ -1,3 +1,7 @@
+**Autores:**
+Gustavo Lucas Santos Silva e Kauã de Sousa Franco da Costa
+
+
 **Autômato Finito para Cadeias de Comprimento Par sobre {a, b, c}**
 
 Este projeto consiste em um script Python que simula um Autômato Finito Determinístico (AFD) responsável por verificar se uma cadeia formada pelos símbolos a, b e c possui comprimento par.
